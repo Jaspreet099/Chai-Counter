@@ -17,7 +17,7 @@
     </a>
     <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center mt-6">
       <a class="btn1 mr-5">Counter</a>
-      <a class="btn2 mr-5 ml-11">Login/SignUp</a>
+      <a class="btn2 mr-5 ml-10" href="/LoginSystem/login.php">Login/SignUp</a>
     </nav>
   </div>
 </header>
