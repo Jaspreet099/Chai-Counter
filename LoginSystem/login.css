@@ -17,3 +17,15 @@ color: #292C31;
 /* line-height: 40px; */
 }
 
+.Uname{
+background: #FFFFFF;
+padding: 16px;
+width: 360px;
+height: 64px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+border: 3px solid #000000;
+border-radius: 8px;
+}

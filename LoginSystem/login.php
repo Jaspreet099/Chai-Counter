@@ -15,14 +15,14 @@
     <section class="">
   <div class="login container none mx-auto w-3/12">
     <div class="flex flex-col text-center">
-      <h1 class="head center">Login</h1>
+      <h1 class="head center mt-6">Login</h1>
     </div>
     <div class="lg:w-1/2 md:w-2/3 mx-auto">
       <div class="flex flex-wrap -m-2">
         <div class=" w-full mt-11">
           <div class="relative">
             
-            <input type="text" id="name" name="name" class="Uname">
+            <input type="text" id="name" name="name" class="Uname" placeholder="Username">
           </div>
         </div>
         <div class="w-full mt-8">
