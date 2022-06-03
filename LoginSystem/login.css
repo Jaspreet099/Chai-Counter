@@ -1,0 +1,19 @@
+.login {
+    border: 9px solid #20262F;
+    border-radius: 10px;
+    /* width: 446px;
+    height: 474px;
+    */
+}
+
+.head{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+color: #292C31;
+/* background-color: aliceblue; */
+
+/* line-height: 40px; */
+}
+
