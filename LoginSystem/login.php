@@ -10,9 +10,9 @@
 </head>
 <body>
     <?php include '../partials/_nav.php'
-    
+  
     ?>
-    <section class="">
+    <section class="mt-3">
   <div class="login container none mx-auto w-4/12">
     <div class="flex flex-col text-center">
       <h1 class="head center mt-6">Login</h1>
