@@ -13,29 +13,32 @@
     
     ?>
     <section class="">
-  <div class="login container none mx-auto w-3/12">
+  <div class="login container none mx-auto w-4/12">
     <div class="flex flex-col text-center">
       <h1 class="head center mt-6">Login</h1>
     </div>
-    <div class="lg:w-1/2 md:w-2/3 mx-auto">
-      <div class="flex flex-wrap -m-2">
-        <div class=" w-full mt-11">
-          <div class="relative">
-            
+    <div class="">
+      <!-- <div class="flex flex-wrap -m-2"> -->
+        <div class="  mt-11">
+          <div class="flex justify-center items-center">
+
             <input type="text" id="name" name="name" class="Uname" placeholder="Username">
           </div>
         </div>
         <div class="w-full mt-8">
-          <div class="relative">
+          <div class="flex justify-center items-center">
             
-            <input type="password" name="pass" class="pass">
+            <input type="password" name="pass" class="Uname" placeholder="Password">
           </div>
         </div>
-        <div class="p-2 w-full">
-          <button class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
+        <div class="p-2 w-full mt-11">
+          <button class="btn flex mx-auto">Login</button>
+        </div>
+        <div class="text-center w-full mt-8 mb-10">
+          <p class="text">Don't Have Account? <a href="./signup.php">Signup</a></p>
         </div>
 
-      </div>
+      <!-- </div> -->
     </div>
   </div>
 </section>
