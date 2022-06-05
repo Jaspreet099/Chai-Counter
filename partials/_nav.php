@@ -11,7 +11,7 @@
 <body>
 <header class="text-gray-600 body-font">
   <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-    <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
+    <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0" href="../index.php">
       <img src="../images/logo.png" alt="logo">
       <!-- <span class="ml-3 text-xl">Tailblocks</span> -->
     </a>
