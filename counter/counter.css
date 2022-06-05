@@ -1,0 +1,19 @@
+#span {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 96px;
+    color: #0D0E10;
+}
+
+.btn{
+    padding: 8px 12px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #0D0E10;
+    background: #ECF0F3;
+    border: 3px solid #0D0E10;
+    border-radius: 8px;
+}
